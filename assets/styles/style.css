@@ -56,6 +56,18 @@
     border: 1px solid white;
     padding: 4px;
   }
+
+  nav ul li a:link {
+    color:white;
+  }
+
+  nav ul li a:visited {
+    color:aqua;
+  }
+
+  nav ul li a:hover {
+    color:yellow;
+  }
   
   .menuDesc {
     line-height: 20px;
